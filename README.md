@@ -32,7 +32,7 @@ The main objectives of this project are:
 - **Microsoft Power BI**
 - **DAX**
 - **Power Query**
-- **CSV / Excel**
+- **CSV**
 - **Data Cleaning**
 - **Data Transformation**
 - **Data Modeling**
