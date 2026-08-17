@@ -249,11 +249,3 @@ The dashboard includes an interactive **Season Slicer** that allows users to sel
 This project demonstrates how large IPL datasets can be transformed into an interactive Business Intelligence dashboard.
 
 The final dashboard enables users to quickly explore IPL seasons, compare teams and players, identify top performers, and understand important cricket performance trends.
-
----
-
-## 👨‍💻 Author
-
-**Javed Ali**
-
-**IPL Analysis Dashboard | Power BI**
