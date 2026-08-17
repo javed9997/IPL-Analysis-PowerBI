@@ -182,8 +182,11 @@ The team performance table provides:
 
 ## 📸 Dashboard Preview
 
-![IPL Dashboard](https://github.com/javed9997/IPL-Analysis-PowerBI/blob/main/IPL_Aanalysis_Dashborad.png)
+## 📸 Dashboard Preview
 
+<p align="center">
+  <img src="https://github.com/javed9997/IPL-Analysis-PowerBI/blob/main/IPL_Aanalysis_Dashboard.png" width="900">
+</p>
 ---
 
 ## 💡 Key Insights
